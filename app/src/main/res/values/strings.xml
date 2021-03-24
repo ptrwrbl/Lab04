@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+
+    <string name="player1_symbol">O</string>
+    <string name="player2_symbol">X</string>
+    <string name="player1_wins">Wygrały O!</string>
+    <string name="player2_wins">Wygrały X!</string>
+    <string name="nobody_wins">Remis</string>
+</resources>
